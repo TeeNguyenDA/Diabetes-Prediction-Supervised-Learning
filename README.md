@@ -8,16 +8,6 @@ In this Project, we are going to perform a full supervised learning machine lear
 
 **Context of the dataset**: The context of the medical predictor variables and the target variables are from females at least 21 years old from the Pima Indian heritage.
 
-## Repository Structure:
-
-Repository Link: [Diabetes-Prediction-Supervised-Learning](https://github.com/TeeNguyenDA/Diabetes-Prediction-Supervised-Learning)
-
-* [Supervised Learning - Project.ipynb]()
-* [diabetes.csv](diabetes.csv)
-* [README.md](README.md)
-* [Final Project - Description.docx]()
-* [Final Project Rubric - Machine Learning.xlsx]()
-
 ## Project Outcomes
 
 - Supervised Learning: Use supervised learning techniques to build a machine learning model that can predict whether a patient has diabetes or not, based on certain diagnostic measurements.The project involves three main parts: exploratory data analysis, preprocessing and feature engineering, and training a machine learning model.
