@@ -51,8 +51,7 @@ Include these steps:
 2. Handling outliers
 3. Dropping duplicates (if any)
 4. Feature Engineering/Selection
-5. Features transformation
-6. Splitting the data and Scaling
+5. Splitting the data and Scaling
 
 - **Part III : Training ML Model**
 
@@ -83,6 +82,6 @@ Include:
 
 - **Conclusion from the the machine learning models developed**:
 
-* Our task is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset which us a binary classification task. We tried to apply 5-fold cross-validation and compute average scores to find the better performing machine learning algorithms among: Logistic Regression, Decision Trees and Random Forest. The result indicates that Logistic regression and Random Forest seem to perform much better.
+* Our task is to diagnostically predict whether a patient has diabetes, based on certain diagnostic measurements included in the dataset which us a binary classification task. We tried to apply 5-fold cross-validation and compute average scores to find the better performing supervised machine machine learning algorithms among: Logistic Regression, Decision Trees and Random Forest. The result indicates that Logistic regression and Random Forest seem to perform much better.
 
-* This is an imbalanced dataset wherein the target variable to predict diabetes has more patients samples not having diabetes (much more 0 values compared to 1 values in the 'Outcome' target variable). To combat that, we know Accuracy score won't work well in evaluating the model performance, and therefore prefer to use Precision and Recall to perform model evaluation comparison. At the end, the Logistic Regression Model is the best performing with 72.91% of the correctly predicted diabete cases turned out to be truly women over 21 from the Pima Indian tribes having diabetes. 63.64% of those positive predictions were successfully predicted by our model.
+* This is an imbalanced dataset wherein the target variable to predict diabetes has more patients samples not having diabetes (much more 0 values compared to 1 values in the 'Outcome' target variable). To combat that, we know Accuracy score won't work well in evaluating the model performance, and therefore prefer to use Precision and Recall to perform model evaluation comparison. At the end, the Logistic Regression Model is the best performing with 73.47% of the correctly predicted diabete cases turned out to be truly women over 21 years old from the Pima Indian tribes having diabetes. 65.46% of those positive predictions were successfully predicted by our model.
