@@ -12,10 +12,10 @@ In this Project, we are going to perform a full supervised learning machine lear
 
 Repository Link: [Diabetes-Prediction-Supervised-Learning](https://github.com/TeeNguyenDA/Diabetes-Prediction-Supervised-Learning)
 
-* [Supervised Learning - Project](Supervised Learning - Project.ipynb)
+* [Supervised Learning - Project]
 * [diabetes.csv](diabetes.csv)
 * [README.md](README.md)
-* [Final Project - Description.docx](Final Project - Description.docx)
+* [Final Project - Description.docx]
 
 ## Project Outcomes
 
