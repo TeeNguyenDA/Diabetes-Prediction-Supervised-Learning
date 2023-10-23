@@ -29,7 +29,7 @@ The ultimate goal of the project is to gain insights from the data sets and comm
 
 ## Actual Project Flow:
 
-- **Part I : EDA - Exploratory Data Analysis**
+### Part I : EDA - Exploratory Data Analysis
 
 Answers those questions:
 
@@ -43,7 +43,7 @@ Answers those questions:
 8. What is the average glucose level for individuals with diabetes and without diabetes?
 9.  Are there any differences in the predictor variables between males and females (if gender information is available)?
 
-- **Part II : Preprocessing & Feature Engineering**
+### Part II : Preprocessing & Feature Engineering
 
 Include these steps:
 
@@ -53,7 +53,7 @@ Include these steps:
 4. Feature Engineering/Selection
 5. Splitting the data and Scaling
 
-- **Part III : Training ML Model**
+### Part III : Training ML Model
 
 Include:
 
@@ -61,7 +61,7 @@ Include:
 1. Logistic Regression Model
 2. Random Forest Classifier Model
 
-- **Part IV : Conclusion**
+### Part IV : Conclusion
 
 Include:
 
